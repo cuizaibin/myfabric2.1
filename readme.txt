@@ -1,1 +1,2 @@
-tis  is a version control system.
+this  is a version control system.
+Git is free software under GPL.
